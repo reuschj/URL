@@ -1,0 +1,15 @@
+{
+  "name": "url-js",
+  "version": "1.0.0",
+  "description": "Class to define/hold a URL and break down component parts",
+  "main": "URL.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gecgithub01.walmart.com/jreusch/URL.git"
+  },
+  "author": "Justin Reusch",
+  "license": "GPL-3.0-or-later"
+}
