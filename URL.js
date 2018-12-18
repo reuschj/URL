@@ -84,7 +84,7 @@ class URL {
         const pathString = hasPath ? `/${this.getPathString()}` : ''
         const port = this.getPort() !== null ? this.getPort() : null;
         const portString = addPort && port !== null ? `:${port}` : '';
-        return `${prefixString}${this.getHostName()}${pathString}${portString}`;
+        return `${prefixString}${this.getHostName()}${portString}${pathString}`;
     }
 
     /**
