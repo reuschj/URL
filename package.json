@@ -1,6 +1,6 @@
 {
   "name": "url-formatter-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Class to define/hold a URL and break down component parts",
   "main": "URL.js",
   "scripts": {
